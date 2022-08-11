@@ -29,7 +29,7 @@ import com.project.onlinefashionstore.model.Employee;
 import com.project.onlinefashionstore.model.State;
 import com.project.onlinefashionstore.repository.EmployeeRepository;
 
-@CrossOrigin(origins = "https://20220810t032127-dot-sturdy-apricot-357312.ue.r.appspot.com/")
+@CrossOrigin(origins = "")
 @RestController
 @RequestMapping("/api/v1")
 public class EmployeeController {

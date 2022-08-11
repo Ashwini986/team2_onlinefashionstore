@@ -29,7 +29,7 @@ import com.project.onlinefashionstore.model.Product;
 import com.project.onlinefashionstore.model.Sell;
 import com.project.onlinefashionstore.repository.OrderRepository;
 
-@CrossOrigin(origins = "https://20220810t032127-dot-sturdy-apricot-357312.ue.r.appspot.com/")
+@CrossOrigin(origins = "")
 @RestController
 @RequestMapping("/api/v1")
 public class OrderController {

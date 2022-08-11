@@ -50,7 +50,7 @@ import com.project.onlinefashionstore.model.Salary;
 import com.project.onlinefashionstore.repository.ProductRepository;
 import com.project.onlinefashionstore.services.FileUploadService;
 
-@CrossOrigin(origins = "https://20220810t032127-dot-sturdy-apricot-357312.ue.r.appspot.com/")
+@CrossOrigin(origins = "")
 @RestController
 @RequestMapping("/api/v1")
 public class ProductController {

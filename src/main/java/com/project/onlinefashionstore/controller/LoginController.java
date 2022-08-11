@@ -27,7 +27,7 @@ import com.project.onlinefashionstore.model.Employee;
 import com.project.onlinefashionstore.model.Login;
 import com.project.onlinefashionstore.repository.LoginRepository;
 
-@CrossOrigin(origins = "https://20220810t032127-dot-sturdy-apricot-357312.ue.r.appspot.com/")
+@CrossOrigin(origins = "")
 @RestController
 @RequestMapping("/api/v1")
 public class LoginController {
